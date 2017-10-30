@@ -9,5 +9,11 @@ namespace Petla
     public class Petla
     {
         public int A { get; set; }
+        public long Silnia()
+        {
+            long silnia = 1;
+
+            return silnia;
+        }
     }
 }
