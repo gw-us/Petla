@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Petla
 {
-    class Petla
+    public class Petla
     {
+        public int A { get; set; }
     }
 }
