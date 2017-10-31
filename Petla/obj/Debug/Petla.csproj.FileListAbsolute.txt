@@ -1,0 +1,7 @@
+C:\Users\grzeg\Documents\GitHub\Petla\Petla\bin\Debug\Petla.exe.config
+C:\Users\grzeg\Documents\GitHub\Petla\Petla\bin\Debug\Petla.exe
+C:\Users\grzeg\Documents\GitHub\Petla\Petla\bin\Debug\Petla.pdb
+C:\Users\grzeg\Documents\GitHub\Petla\Petla\obj\Debug\Petla.csprojResolveAssemblyReference.cache
+C:\Users\grzeg\Documents\GitHub\Petla\Petla\obj\Debug\Petla.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\Documents\GitHub\Petla\Petla\obj\Debug\Petla.exe
+C:\Users\grzeg\Documents\GitHub\Petla\Petla\obj\Debug\Petla.pdb
